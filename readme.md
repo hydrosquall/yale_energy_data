@@ -1,6 +1,7 @@
 ## Yale Energy Dataset
 
-This project revolves around Monthly reports on the environmental impact of Yale University. We believe the open data transparency can help students to better understand the impact of their energy choices.
+This project revolves around the monthly reports on the environmental impact of Yale University produced by the Office of Sustainability and Yale Facilities. Open data transparency can help members of the community to better understand the impact of their energy choices.
+
 ## Contents
 
 - iPython notebook for gathering and cleaning the data 
@@ -15,4 +16,6 @@ All data is collected from the public [Yale University Energy Explorer](http://j
 
 Other campus green energy projects can be found [here](www.cameronyick.us/yalegreen).
 
-
+## Todo
+- Add documentation on data limitations 
+- Improve documentation in the iPython notebook, and improve robustness of the scraping/merging code 
