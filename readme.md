@@ -4,8 +4,10 @@ This project revolves around the monthly reports on the environmental impact of 
 
 ## Contents
 
-- iPython notebook for gathering and cleaning the data 
+- `energy_collection.ipynb` - iPython notebook for gathering and cleaning the data 
 - Full dataset as a CSV, current as of December 2015
+    - `buildings_data.csv` - All energy usage records
+    - `buildings_demographics.csv` - Details about each building
 
 ## Initiatives
 - Carbon Report Card for Buildings
@@ -19,3 +21,5 @@ Other campus green energy projects can be found [here](www.cameronyick.us/yalegr
 ## Todo
 - Add documentation on data limitations 
 - Improve documentation in the iPython notebook, and improve robustness of the scraping/merging code 
+- Document fields of each dataset
+- Directions for setting up ipython environment / notebook dependencies
