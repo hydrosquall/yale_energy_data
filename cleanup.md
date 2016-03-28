@@ -14,3 +14,9 @@ Filtered out Power Plants, Served by CPP, Served by SPP, CPP or SPP, and WPP
 
 Removed 5 duplicate rows that were in Not Served by Yale Plants / AND in 
 west campus
+
+The key we're searching with is Facid, not buildingID
+
+Locations with 0 lat and longitude? Perhaps closed.
+
+Left with 319 buildings with valid data
