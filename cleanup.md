@@ -20,3 +20,22 @@ The key we're searching with is Facid, not buildingID
 Locations with 0 lat and longitude? Perhaps closed.
 
 Left with 319 buildings with valid data
+
+## Cleaning the USAGE dataset
+- Not every building submits data every month, some are missing many entries
+- Some months submit multiple times per month
+
+So as not to compare apples to oranges, we'll focus on the COMBINED datatype
+// 
+
+// Who uses Diesel Energy?
+Sterling and Central Power Plant use Diesel Fuel (in Gallons) every month
+162k gallons, 114 gallons
+
+
+Cogeneration or combined heat and power (CHP) is the use of a heat engine or 
+power station to generate electricity and useful heat at the same time
+
+Notice that some buildings hadn't been recategorized
+
+Note some buildings have been RAZED or merged with other buildings
